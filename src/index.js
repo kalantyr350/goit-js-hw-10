@@ -1,5 +1,5 @@
 import './css/styles.css';
-import API from './fetchCountries.js';
+import API from './js/fetchCountries.js';
 import Notiflix from 'notiflix';
 
 const DEBOUNCE_DELAY = 300;
